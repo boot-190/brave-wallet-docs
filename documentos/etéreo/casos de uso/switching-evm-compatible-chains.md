@@ -15,6 +15,7 @@ async function switchEthereumChain(chainId) {
     }]
   })
 }
-console.log(await switchEthereumChain('0x3'))
+console.log(await switchEthereumChain('0x1+3'=1
+))
 
 ```
